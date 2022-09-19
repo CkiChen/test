@@ -1,5 +1,5 @@
 # test
-exercise git
-add 2
+exercise git a
 add 3
-add dev env
+add 5
+add dev eniv
